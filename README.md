@@ -3,7 +3,11 @@ Easily Create Restfull API with NodeJS and Mongo
 
 #Node.JS Modules
 
+[Express Js](https://github.com/expressjs/express) 
+
 [Mongoose](https://github.com/Automattic/mongoose)
+
+[CORS](https://github.com/expressjs/cors)
 
 [Body Parser](https://github.com/expressjs/body-parser)
 
