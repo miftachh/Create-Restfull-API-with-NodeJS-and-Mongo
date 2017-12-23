@@ -13,6 +13,12 @@ Miftach Hidayatullah  - miftarockavanka@gmail.com
 
 ## How to use 
 
+You can read complete install Node js and Express js on :
+
+[Node Js](https://docs.npmjs.com/getting-started/installing-node)
+
+[Express Js](https://github.com/expressjs/express) 
+
 The following example plain Node.JS
 HTTP server listening on port `8080`.
 
@@ -31,3 +37,4 @@ var express = require('express'),
 app.listen(port);
 ```
   
+
